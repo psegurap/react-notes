@@ -1,7 +1,5 @@
 # React Notes App
 
-Welcome to **React Todo App**, a modern and responsive task management application built with **React and TypeScript**. This project is designed to help users efficiently organize their daily tasks, improve productivity, and maintain focus with a clean and intuitive interface.
-
 Welcome to **React Notes App**, a simple and efficient note-taking application built with **React and TypeScript**. This project is designed to help users quickly capture ideas, organize thoughts, and manage notes in a clean and user-friendly environment.
 
 ---
